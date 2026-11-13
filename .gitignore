@@ -1,0 +1,7 @@
+.venv/
+train/
+public_test/
+private_test/
+*.wav
+*.jsonl
+*.json
